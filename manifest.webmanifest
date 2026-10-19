@@ -1,0 +1,27 @@
+{
+ "name": "Riceline \u2014 Rice Bowls",
+ "short_name": "Riceline",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#fbf7f0",
+ "theme_color": "#0f6b4f",
+ "icons": [
+  {
+   "src": "assets/icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "assets/icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "assets/icons/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
