@@ -80,7 +80,7 @@
   const SECTIONS = [
     { id: 'deals', title: 'Meal Deals', sub: 'Bowl + add-on + drink, $15–21 with tax. Built for a quick lunch.' },
     { id: 'apps', title: 'Appetizers', sub: 'Small plates to share or start.' },
-    { id: 'soups', title: 'Soups', sub: 'From light miso to a full bowl of Bún Bò Huế.' },
+    { id: 'soups', title: 'Soups', sub: 'From light miso to a full bowl of Spicy Lemongrass Beef Noodle Soup.' },
     { id: 'salads', title: 'Salads', sub: 'Crisp greens with house dressings.' },
     { id: 'sandwiches', title: 'Sandwiches', sub: 'Every sandwich comes with 1 side.' },
     { id: 'bowls', title: 'Entrées · Rice Bowls', sub: 'Every entrée comes with 2 sides. Tap to choose sides or tweak anything.' },

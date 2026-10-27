@@ -1946,7 +1946,7 @@ window.RICELINE_MENU = {
   {
    "id": "bun-bo-hue",
    "cat": "soups",
-   "name": "Bún Bò Huế",
+   "name": "Spicy Lemongrass Beef Noodle Soup",
    "price": 11.0,
    "img": "bunbo",
    "desc": "Spicy lemongrass beef and pork broth with rice noodles, tender beef, herbs and lime.",
@@ -2027,10 +2027,10 @@ window.RICELINE_MENU = {
   {
    "id": "goi-ga",
    "cat": "salads",
-   "name": "Gỏi Gà",
+   "name": "Vietnamese Chicken Salad",
    "price": 9.5,
    "img": "goiga",
-   "desc": "Vietnamese chicken and cabbage salad with herbs, peanuts and nước chấm dressing.",
+   "desc": "Shredded chicken and cabbage with fresh herbs, crushed peanuts and a garlic-lime fish sauce dressing.",
    "cal": 360,
    "p": 30,
    "c": 22,
