@@ -138,7 +138,7 @@ window.RICELINE_MENU = {
    "spicy": 0,
    "desc": "Shaved ribeye in Asian-pear, garlic & sesame marinade, seared to order.",
    "cls": "beef",
-   "bowlPrice": 11.5
+   "bowlPrice": 13.25
   },
   {
    "id": "mongolian",
@@ -895,7 +895,7 @@ window.RICELINE_MENU = {
   {
    "id": "bulgogi-bowl",
    "name": "Bulgogi Bowl",
-   "price": 11.5,
+   "price": 13.25,
    "img": "bulgogi",
    "tags": [
     "Best seller",
@@ -948,7 +948,7 @@ window.RICELINE_MENU = {
   {
    "id": "beef-broccoli-bowl",
    "name": "Beef & Broccoli Bowl",
-   "price": 11.0,
+   "price": 11.5,
    "img": "bnb",
    "tags": [],
    "desc": "Wok-seared ribeye and garlic broccoli in our garlic-ginger brown sauce, with pickled carrot and scallions.",
@@ -1192,8 +1192,8 @@ window.RICELINE_MENU = {
     "avocado"
    ],
    "drink": "can-soda",
-   "price": 15.5,
-   "alc": 16.0,
+   "price": 17.25,
+   "alc": 17.75,
    "for": "Lunch at your desk in 15 seconds"
   },
   {
